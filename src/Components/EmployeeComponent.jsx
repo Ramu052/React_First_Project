@@ -23,7 +23,6 @@ class EmployeeComponent extends Component {
                     <p>{this.state.emp_education}</p>
                     <p>{this.state.emp_designation}</p>
                     <p>{this.state.emp_designation}</p>
-                    <p>{this.state.emp_designation}</p>
                 </article>
             </section>
 
